@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "4d7a4a7e0f87baed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab4385dbd1fc6163",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0425f9da671b8760",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9291015d8b74872d",
+    "type": "split",
+    "children": [
+      {
+        "id": "74fd1089d8f9ce86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e12cf922d7cd989",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "436c01d390a6bf62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca6d9b04fa299b97",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f8afdea0fd4d11a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "right": {
+    "id": "b8769d6d9b2a92b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebd0f88b373b1c66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30aa876b38466142",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9daefc6cbfbb92e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6ecc9606a8f0c61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3ab7945bc238054",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png"
+              }
+            }
+          },
+          {
+            "id": "6e312c0fea0bd0c5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "9e12cf922d7cd989",
+  "lastOpenFiles": [
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md",
+    "Obsidian",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Enumeración del sistema.md",
+    "Mi Aprendimiento/Obsidian.md",
+    "Mi Aprendimiento/Hack4u/Introducción a Linux/Permisos.md",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240502190352.png",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Untitled.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Escaneo/Nmap.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Escaneo/OSINT.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Escaneo/Fuzzing y enumeración de archivos web.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Tipos de explotación.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Payloads.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Reverse shells, bind shells, forward shells..md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Crear tu propio server web.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Tratamiento bash.md",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240427113649.png",
+    "Mi Aprendimiento/HackTheBox/CozyHosting.md",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240427123341.png",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240427123126.png",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240427123114.png",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240427123042.png",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240427123003.png",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240427121756.png",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240427121727.png",
+    "Mi Aprendimiento/Puertos/Puerto 22.md",
+    "Mi Aprendimiento/HackTheBox/Lame.md",
+    "Mi Aprendimiento/HackTheBox/Starting Point/Tier 2/Archetype.md",
+    "Mi Aprendimiento/HackTheBox/Starting Point/Tier 1/Three.md",
+    "Mi Aprendimiento/Puertos/Puertos 139 y 445.md",
+    "Mi Aprendimiento/Puertos/Puerto 21.md",
+    "Mi Aprendimiento/Puertos/Puerto 443.md",
+    "Mi Aprendimiento/Puertos/Como ver puertos abiertos del sistema propio.md",
+    "Mi Aprendimiento/Puertos/Puerto 25.md",
+    "Mi Aprendimiento/Puertos/Puerto 23.md",
+    "Mi Aprendimiento/HackTheBox/Starting Point/Tier 0/Dancing.md",
+    "Ecommerce",
+    "Trading",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Docker",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Servicios comunes",
+    "Mi Aprendimiento/HackTheBox/Starting Point/Tier 2",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Escaneo",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking"
+  ]
+}

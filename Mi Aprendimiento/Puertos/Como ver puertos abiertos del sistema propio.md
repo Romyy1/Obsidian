@@ -1,0 +1,2 @@
+
+Usando echo ' ' > /dev/tcp/127.0.0.1/NºPuerto nos saldrá un mensaje en caso de que el puerto no esté abierto y no saldrá nada en caso de que si que esté abierto, es decir, saldrá un código exitoso 1 en caso de que esté abierto, y un código de fallo 0 si está cerrado

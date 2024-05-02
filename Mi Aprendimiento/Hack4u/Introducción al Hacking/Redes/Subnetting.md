@@ -1,0 +1,9 @@
+Es una técnica usada para dividir una red IP en subredes más pequeñas y manejables.
+
+CIDR -> **Classless Inter-Domain Routing**, Es un método de asignación de direcciones IP más eficientes y flexible que el uso de clases de redes IP fijas. Con CIDR, una dirección IOP se representa mediante una dirección IP base y una máscara de red (la cual se escribe un función de los bits que tenga esta, por lo general 24), que se escriben juntas separadas por una barra /. 
+
+Para el cálculo de máscara de red, simplemente contamos los valores de la máscara que tengan un 1 (255.255.255.0 = 11111111.11111111.11111111.00000000, en este caso sería 24) y para el cálculo total de host se calcula elevando a 2 el número de 0 que haya (255.255.255.0 = 11111111.11111111.11111111.00000000, en este caso sería 2^8, que sería un total de 256 que si nos damos cuenta es justo el rango de una red, la mía es 192.168.0.32, en este caso comprendería desde la 192.168.0.0 hasta la 192.168.0.255 que nos salen los 256.) 
+
+- Las redes de **clase A** usan una máscara de subred predeterminada de **255.0.0.0** y tienen de **0** a **127** como su **primer octeto**. La dirección **10.52.36.11**, por ejemplo, es una dirección de **clase A**. Su primer octeto es **10**, que está entre **1** y **126**, ambos incluidos.
+- Las redes de **clase B** usan una máscara de subred predeterminada de **255.255.0.0** y tienen de **128** a **191** como su **primer octeto**. La dirección **172.16.52.63**, por ejemplo, es una dirección de **clase B**. Su primer octeto es **172**, que está entre **128** y **191**, ambos inclusive.
+- Las redes de **clase C** usan una máscara de subred predeterminada de **255.255.255.0** y tienen de **192** a **223** como su **primer octeto**. La dirección **192.168.123.132**, por ejemplo, es una dirección de **clase C**. Su primer octeto es **192**, que está entre **192** y **223**, ambos incluidos.

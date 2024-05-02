@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabLinux",
+      "FabConnectdevelop",
+      "FabFirstdraft",
+      "FabCreative-commons-share",
+      "FabWindows"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "conocimiento/conocimiento/Hacking/TryHackMe/MAQUINA BLOG.md": "FabLinux",
+  "conocimiento/conocimiento/Hacking/TryHackMe/MAQUINA MR ROBOT.md": "FabLinux"
+}
