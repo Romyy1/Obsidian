@@ -11,9 +11,11 @@
             "id": "0425f9da671b8760",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png"
+                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png",
+                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png",
+                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png"
+                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md"
               }
             }
           },
@@ -163,14 +165,14 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "9e12cf922d7cd989",
+  "active": "0425f9da671b8760",
   "lastOpenFiles": [
+    "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png",
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md",
     "Obsidian",
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Enumeración del sistema.md",
     "Mi Aprendimiento/Obsidian.md",
     "Mi Aprendimiento/Hack4u/Introducción a Linux/Permisos.md",
-    "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png",
     "Mi Aprendimiento/Imagenes/Pasted image 20240502190352.png",
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Untitled.md",
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Escaneo/Nmap.md",
