@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md",
+                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/Direcciones IPV4 e IPV6.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md",
+                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/Direcciones IPV4 e IPV6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md",
+                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/Direcciones IPV4 e IPV6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md"
+                "file": "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/Direcciones IPV4 e IPV6.md"
               }
             }
           },
@@ -167,8 +167,18 @@
   },
   "active": "0425f9da671b8760",
   "lastOpenFiles": [
-    "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/Direcciones MAC.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/Modelo OSI.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/Protocolos.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/Subnetting.md",
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Burpsuite.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Crear tu propio server web.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Tratamiento bash.md",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240507160622.png",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/Direcciones IPV4 e IPV6.md",
+    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Redes/A tener en cuenta.md",
+    "Pasted image 20240507160243.png",
+    "Mi Aprendimiento/Imagenes/Pasted image 20240502190534.png",
     "Obsidian",
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Enumeración del sistema.md",
     "Mi Aprendimiento/Obsidian.md",
@@ -181,8 +191,6 @@
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Tipos de explotación.md",
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Payloads.md",
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion/Reverse shells, bind shells, forward shells..md",
-    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Crear tu propio server web.md",
-    "Mi Aprendimiento/Hack4u/Introducción al Hacking/Tratamiento bash.md",
     "Mi Aprendimiento/Imagenes/Pasted image 20240427113649.png",
     "Mi Aprendimiento/HackTheBox/CozyHosting.md",
     "Mi Aprendimiento/Imagenes/Pasted image 20240427123341.png",
@@ -190,19 +198,12 @@
     "Mi Aprendimiento/Imagenes/Pasted image 20240427123114.png",
     "Mi Aprendimiento/Imagenes/Pasted image 20240427123042.png",
     "Mi Aprendimiento/Imagenes/Pasted image 20240427123003.png",
-    "Mi Aprendimiento/Imagenes/Pasted image 20240427121756.png",
-    "Mi Aprendimiento/Imagenes/Pasted image 20240427121727.png",
     "Mi Aprendimiento/Puertos/Puerto 22.md",
     "Mi Aprendimiento/HackTheBox/Lame.md",
     "Mi Aprendimiento/HackTheBox/Starting Point/Tier 2/Archetype.md",
     "Mi Aprendimiento/HackTheBox/Starting Point/Tier 1/Three.md",
     "Mi Aprendimiento/Puertos/Puertos 139 y 445.md",
     "Mi Aprendimiento/Puertos/Puerto 21.md",
-    "Mi Aprendimiento/Puertos/Puerto 443.md",
-    "Mi Aprendimiento/Puertos/Como ver puertos abiertos del sistema propio.md",
-    "Mi Aprendimiento/Puertos/Puerto 25.md",
-    "Mi Aprendimiento/Puertos/Puerto 23.md",
-    "Mi Aprendimiento/HackTheBox/Starting Point/Tier 0/Dancing.md",
     "Ecommerce",
     "Trading",
     "Mi Aprendimiento/Hack4u/Introducción al Hacking/Conceptos enumeración explotacion",
