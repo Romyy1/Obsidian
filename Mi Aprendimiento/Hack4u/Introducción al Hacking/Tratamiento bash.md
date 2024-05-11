@@ -1,5 +1,13 @@
 
-script /dev/null -c bash -> Para verlo mejor
+![[Pasted image 20240506224512.png]]
 
-![[Pasted image 20231107112121.png]]
+Hacemos CTRL + Z
+
+![[Pasted image 20240506224601.png]]
+
+![[Pasted image 20240506224624.png]]
+
+![[Pasted image 20240506224712.png]]
+
+![[Pasted image 20240506224915.png]]
 
