@@ -1,5 +1,6 @@
 
 Comenzamos con el ping para ver la conectividad con la máquina
+
 ![[Pasted image 20240506195321.png]]
 
 El ttl es cercano a 64 por lo que es una máquina Linux.
