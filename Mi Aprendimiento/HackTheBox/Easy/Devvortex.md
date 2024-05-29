@@ -73,7 +73,7 @@ Ahora ejecutamos este comando para descubrir vhost
 
 *No ha funcionado el descubrimiento de vhost es captura de un video*
 
-La pagina cambia mucho, y en el codigo fuente encontramos:
+La pagina cambia mucho, y en el código fuente encontramos:
 
 ![[Pasted image 20240506210642.png]]
 
