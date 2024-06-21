@@ -97,6 +97,7 @@ Ahora vamos a hacer un script para poder sacar la contraseña en caso de no sabe
 Este es el script creado.
 
 También funciona con wpscan
+
 ![[Pasted image 20231019115134.png]]
 
 Esta manera es muchísimo más facil e intuitiva.
