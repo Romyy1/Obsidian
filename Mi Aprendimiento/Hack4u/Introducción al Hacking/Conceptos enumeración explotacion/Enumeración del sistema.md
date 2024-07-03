@@ -45,3 +45,4 @@ Con **sytemctl list-timers** también podemos ver tareas que se van a ejecutar y
 
 Existe una herramienta llamada **pspy** que nos permite como atacantes, ver comandos y tareas que se ejecuten con diferentes intervalos de tiempo en el sistema.
 
+Podemos ver procesos del sistema con **ps -faux**. 
