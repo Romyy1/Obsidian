@@ -23,3 +23,8 @@
 
 - Si por algún motivo no podemos descargar algo de un repositorio, usar: ![[Pasted image 20230920111740.png]]
 - Aquí lo que hacemos es poner esos comandos y cambiar tree/master por trunk 
+
+- Para hacer un port forwarding de un ssh a nuestro ordenador sería de la siguiente manera:
+
+   ![[Obsidian/Mi Aprendimiento/Imagenes/Pasted image 20240919224813.png]]
+
