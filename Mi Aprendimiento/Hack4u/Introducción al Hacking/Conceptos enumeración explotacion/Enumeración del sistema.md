@@ -1,4 +1,6 @@
 
+**ANTES DE TODO REVISAR CARPETAS, EN ESPECIAL HOME, OPT Y EN CASO DE SERVIDOR WEB VAR/WWW**
+
 Son los pasos a seguir una vez comprometemos el equipo
 
 LSE-> Linux Smart Enumeration. Es un script que nos ayuda a la hora de hacer la enumeración una vez hemos vulnerado una máquina.
@@ -41,7 +43,7 @@ También podemos ver las tareas cron que se ejecutan de manera regular en el sis
 si podemos tener acceso a alguna de estas tareas y modificar un archivo para darnos una bash ya lo tendríamos.
 
 
-Con **sytemctl list-timers** también podemos ver tareas que se van a ejecutar y el tiempo que quede para que se ejecute.
+Con **systemctl list-timers** también podemos ver tareas que se van a ejecutar y el tiempo que quede para que se ejecute.
 
 Existe una herramienta llamada **pspy** que nos permite como atacantes, ver comandos y tareas que se ejecuten con diferentes intervalos de tiempo en el sistema.
 
