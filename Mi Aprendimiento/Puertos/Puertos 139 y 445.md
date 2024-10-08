@@ -9,4 +9,11 @@ Aquí solo utilizamos dos primero y luego una, en SMB hay que doblarlas, es deci
 
 \\\\\\\\10.10.10.10\\\\hola 
 
+para acceder usamos:
+
+smbclient \\\\172.17.0.2\\ jon -U jon%seacercaelinvierno
+
+luego para ver que hay, usamos dir o ls
+
+IMPORTANTE ACCEDER COMO ROOT PARA QUE NOS DEJE OBTENER LAS COSAS
 
